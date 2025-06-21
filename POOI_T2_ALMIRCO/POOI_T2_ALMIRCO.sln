@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOI_T2_ALMIRCO", "POOI_T2_ALMIRCO\POOI_T2_ALMIRCO.csproj", "{22113993-E9C7-487C-B32D-F9E7F62D5C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22113993-E9C7-487C-B32D-F9E7F62D5C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22113993-E9C7-487C-B32D-F9E7F62D5C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22113993-E9C7-487C-B32D-F9E7F62D5C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22113993-E9C7-487C-B32D-F9E7F62D5C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A4EB811-D5A1-41F4-9293-498650B69433}
+	EndGlobalSection
+EndGlobal
